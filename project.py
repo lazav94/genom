@@ -11,7 +11,6 @@ def naive(pattern, text):
             occurrences.append(i) # all chars matched; record
     return occurrences
 
-
 import string
 
 def z_array(s):
